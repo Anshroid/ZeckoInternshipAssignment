@@ -1,5 +1,6 @@
 # ZeckoInternshipAssignment
-A solution to the Zecko Zoey Internship Assignment
+A solution to the Zecko Zoey Internship Assignment  
+From https://docs.google.com/document/d/1I5Mdjuxi6VDxn-8g7-6qUqJrfHbd519HfpnIkLRCyAY/edit  
 
 ---
 ## To use
